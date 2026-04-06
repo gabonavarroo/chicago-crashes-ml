@@ -1,4 +1,4 @@
-# 03 model specs
+# 04 evaluation protocol
 
 Status: Draft
 

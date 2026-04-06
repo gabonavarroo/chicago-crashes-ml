@@ -1,4 +1,4 @@
-# 03 model specs
+# 02 feature catalog
 
 Status: Draft
 

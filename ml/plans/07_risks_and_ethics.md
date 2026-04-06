@@ -1,4 +1,4 @@
-# 03 model specs
+# 07 risks and ethics
 
 Status: Draft
 

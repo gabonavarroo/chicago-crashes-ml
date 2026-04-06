@@ -1,4 +1,4 @@
-# 03 model specs
+# 01 data contract
 
 Status: Draft
 

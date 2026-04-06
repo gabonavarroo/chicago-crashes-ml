@@ -1,4 +1,4 @@
-# 03 model specs
+# 05 deployment and sql outputs
 
 Status: Draft
 
