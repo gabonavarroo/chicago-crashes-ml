@@ -1,0 +1,10 @@
+model_name: hotspot
+version: v0.1
+algorithm: lightgbm
+target_column: incident_count
+features_source: ml_hotspot_features
+forecast_horizon_hours: 24
+hyperparameters:
+  num_leaves: 64
+  learning_rate: 0.05
+  n_estimators: 800

@@ -1,0 +1,9 @@
+severity:
+  high_risk_probability: 0.65
+  medium_risk_probability: 0.40
+hotspot:
+  alert_score_threshold: 0.70
+  daily_alert_budget: 50
+monitoring:
+  psi_warning: 0.20
+  psi_critical: 0.30

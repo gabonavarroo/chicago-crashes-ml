@@ -1,0 +1,9 @@
+model_name: severity
+version: v0.1
+algorithm: xgboost
+target_column: crash_severity
+features_source: ml_crash_features
+hyperparameters:
+  max_depth: 6
+  learning_rate: 0.05
+  n_estimators: 600
